@@ -11,3 +11,4 @@ For a downloadable executable of this build, please visit: http://www.mediafire.
 
 For an always up to date executable version of this build, please visit: http://www.programdata.webs.com//atomicmasscalc.zip
 
+*Please note that for the up to date version, it says "Atomic Mass Calculator," but it is supposed to be "Molar Mass Calculator." This is currently in the process of getting fixed.
